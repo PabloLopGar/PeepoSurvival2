@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a54cc010a68f4f7a8cc838ad4403147, type: 3}
+  m_Name: Plano
+  m_EditorClassIdentifier: 
+  nombre: Plano
+  "descripci\xF3n": Para construir
+  icono: {fileID: 21300000, guid: e88a88437837a4af3a001bb15faf17b5, type: 3}
+  prefabDrop: {fileID: 4989983212114463290, guid: 0d6d1daab1bdc4213adf7a655d6b5b83, type: 3}
+  tipo: 0
+  puedeStackear: 0
+  maxNumStack: 0

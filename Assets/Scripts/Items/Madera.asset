@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a54cc010a68f4f7a8cc838ad4403147, type: 3}
+  m_Name: Madera
+  m_EditorClassIdentifier: 
+  nombre: Madera
+  "descripci\xF3n": Material de construccion
+  icono: {fileID: 21300000, guid: 6d5a244edfa22413cbc03bc56730a08f, type: 3}
+  prefabDrop: {fileID: 3920227533824935074, guid: 4bb820c05002a48ada8c6affc60c89b7, type: 3}
+  tipo: 0
+  puedeStackear: 1
+  maxNumStack: 24

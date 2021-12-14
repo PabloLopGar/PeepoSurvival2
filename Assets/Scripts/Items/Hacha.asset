@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a54cc010a68f4f7a8cc838ad4403147, type: 3}
+  m_Name: Hacha
+  m_EditorClassIdentifier: 
+  nombre: Hacha
+  "descripci\xF3n": Tala madera
+  icono: {fileID: 21300000, guid: 3053b6928209f4d4a9e6d05eae36dcc6, type: 3}
+  prefabDrop: {fileID: 6836856114126554369, guid: afeab09e1d8274cb9af0f83ee7b1e7d0, type: 3}
+  tipo: 1
+  puedeStackear: 0
+  maxNumStack: 0
+  stats: []
+  equipoPrefab: {fileID: 6503764360234817636, guid: 63c16482e6e5f4cb79fd46d99aa51cd7, type: 3}
